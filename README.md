@@ -1,5 +1,5 @@
 # adaptive_app 
-I implemented a Google codelab, a full-featured game intro screen with animations, fragment shaders, and particle animations!
+I implemented a Google codelab, an adaptive Flutter app that runs on all six platforms that Flutter supports. I adapted the code to handle differences in how screens are layed out, how text is interacted with and how images are loaded,
 
 ## Key Concepts Learnt
 - How to grow a Flutter app designed for mobile to work on all six platforms supported by Flutter.
