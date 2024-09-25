@@ -12,8 +12,7 @@ import 'src/playlist_details.dart';
 // From https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw
 const flutterDevAccountId = 'UCwXdFgeE9KYzlDdR7TG9cMw';
 
-// TODO: Replace with your YouTube API Key
-const youTubeApiKey = 'AIzaSyDc3vOI-GnU8HIeTMmtLnqo3ZTw2adj3uY';
+const youTubeApiKey = 'AIzaSyBvsoEnNxq3MXEATRwJYVyKEQci-XjTbpY';
 
 final _router = GoRouter(
   routes: <RouteBase>[

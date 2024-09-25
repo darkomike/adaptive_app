@@ -7,6 +7,13 @@ I implemented a Google codelab, an adaptive Flutter app that runs on all six pla
 - Adapting to the restrictions and expectations of running an app on the web.
 - How to use different packages alongside each other to support the full range of Flutter's platforms.
 
+
+## Mobile Screenshots
+![Screenshot one here.](./images/shot_one.png) 
+![Screenshot two here.](./images/shot_two.png) 
+![Screenshot three here.](./images/shot_three.png) 
+
+
 ### Supporting Platforms
 - Android 
 - iOS
@@ -27,7 +34,3 @@ I implemented a Google codelab, an adaptive Flutter app that runs on all six pla
 [Check out the codelab here.](https://codelabs.developers.google.com/codelabs/flutter-adaptive-app)
 
 
-<!-- ![Screenshot one here.](./images/shot_one.png) 
-![Screenshot two here.](./images/shot_two.png) 
-![Screenshot three here.](./images/shot_three.png) 
-![Screenshot four here.](./images/shot_four.png)  -->
