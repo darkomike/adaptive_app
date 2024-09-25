@@ -14,6 +14,13 @@ I implemented a Google codelab, an adaptive Flutter app that runs on all six pla
 ![Screenshot three here.](./images/shot_three.png) 
 
 
+## Desktop Screenshots
+![Screenshot four here.](./images/shot_four.png) 
+![Screenshot five here.](./images/shot_five.png) 
+![Screenshot six here.](./images/shot_six.png) 
+![Screenshot seven here.](./images/shot_seven.png) 
+
+
 ### Supporting Platforms
 - Android 
 - iOS
